@@ -1,0 +1,11 @@
+name: shinyapp
+title:
+username:
+account: nourah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4103056
+bundleId: 4576702
+url: https://nourah.shinyapps.io/shinyapp/
+when: 1620558605.41825
+lastSyncTime: 1620558605.41827
