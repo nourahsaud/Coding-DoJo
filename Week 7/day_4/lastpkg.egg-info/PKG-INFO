@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: lastpkg
+Version: 0.0.3
+Summary: Math and some operations
+Home-page: https://github.com/nourahsaud
+Author: Nourah Alsaadan
+Author-email: nourahsaadan@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+### MyClass Package Details
+    - This package computes the mean, and do some other operations like retrieve max and min return sorted list.
+
